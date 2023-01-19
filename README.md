@@ -1,4 +1,8 @@
-# Cloud Run Ruby Exampless
+# Cloud Run Ruby Examples
+
+✨ **These samples are now available over [Google Cloud devrel-demos repo](https://github.com/GoogleCloudPlatform/devrel-demos/tree/main/app-dev/ruby-frameworks-cloudrun)** ✨
+
+---
 
 This repository shows demonstration examples for several different Ruby web servers and web frameworks, along with several WSGI servers.  
 
